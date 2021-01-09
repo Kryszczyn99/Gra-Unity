@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Coins
+  - Box
+  - Cherry
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - AvoidJumps
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Deeper Background
+    uniqueID: 139138533
+    locked: 0
+  - name: Background
+    uniqueID: 4271805655
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2198618309
+    locked: 0
+  - name: Deeper Foreground
+    uniqueID: 818847409
+    locked: 0
+  - name: Enemy
+    uniqueID: 3008781867
+    locked: 0
+  - name: Spikes
+    uniqueID: 2371691765
+    locked: 0
+  - name: Platforms
+    uniqueID: 3636631105
+    locked: 0
+  - name: ItemForMission
+    uniqueID: 65587755
+    locked: 0
+  - name: White
+    uniqueID: 1998693393
+    locked: 0
+  - name: Bird
+    uniqueID: 4007834591
+    locked: 0
+  - name: Player
+    uniqueID: 346939977
+    locked: 0
