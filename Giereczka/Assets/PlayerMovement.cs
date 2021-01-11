@@ -9,7 +9,7 @@ public class PlayerMovement : MonoBehaviour
     public Animator animator;
     
     static float horizontalMove = 0f;
-    static public float runSpeed = 15f;
+    public float runSpeed = 1f;
     bool jump = false;
     bool crouch = false;
     static bool freeze = false;
