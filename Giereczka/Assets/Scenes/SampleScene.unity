@@ -4271,7 +4271,7 @@ GameObject:
   - component: {fileID: 352855403}
   - component: {fileID: 352855405}
   - component: {fileID: 352855404}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: big-crate (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -7086,7 +7086,7 @@ GameObject:
   - component: {fileID: 580569874}
   - component: {fileID: 580569876}
   - component: {fileID: 580569875}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: big-crate (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10682,7 +10682,7 @@ GameObject:
   - component: {fileID: 786307734}
   - component: {fileID: 786307736}
   - component: {fileID: 786307735}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: big-crate (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -43206,7 +43206,7 @@ GameObject:
   - component: {fileID: 908022082}
   - component: {fileID: 908022081}
   - component: {fileID: 908022085}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: crank-down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -48656,7 +48656,7 @@ GameObject:
   - component: {fileID: 1274299437}
   - component: {fileID: 1274299439}
   - component: {fileID: 1274299438}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: big-crate (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -53992,7 +53992,7 @@ GameObject:
   - component: {fileID: 1550321591}
   - component: {fileID: 1550321594}
   - component: {fileID: 1550321595}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: crank-down
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -54143,7 +54143,7 @@ GameObject:
   - component: {fileID: 1568559408}
   - component: {fileID: 1568559407}
   - component: {fileID: 1568559409}
-  m_Layer: 0
+  m_Layer: 9
   m_Name: big-crate
   m_TagString: Untagged
   m_Icon: {fileID: 0}

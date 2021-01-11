@@ -25,18 +25,4 @@ public class PutComment : MonoBehaviour
             Text.SetActive(false);
         }
     }
-    void OnCollisionEnter2D(Collider2D player)
-    {
-        if (player.gameObject.tag == "Player")
-        {
-            Text.SetActive(true);
-        }
-    }
-    void OnCollisionExit2D(Collider2D player)
-    {
-        if (player.gameObject.tag == "Player")
-        {
-            Text.SetActive(false);
-        }
-    }
 }
