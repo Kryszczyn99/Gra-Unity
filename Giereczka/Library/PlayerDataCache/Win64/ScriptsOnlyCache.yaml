@@ -1381,4 +1381,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MenuScene.unity
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/KP/Desktop/gierka/GRA 2D.exe
+  playerPath: C:/Users/KP/Desktop/gierka_exe/GRA 2D.exe
